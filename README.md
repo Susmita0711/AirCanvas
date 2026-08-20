@@ -2,7 +2,7 @@
 
 An immersive, framework-free gesture drawing experience using **MediaPipe Hand Landmarker**, **HTML5 Canvas**, and real-time computer vision right in your web browser. 🚀
 
-## 🔗Live : https://susmita0711.github.io/AirCanvas/
+## 🔗Live : Try it here[https://susmita0711.github.io/AirCanvas/]
 
 ---
 
